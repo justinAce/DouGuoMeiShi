@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ViewController tableView:cellForRowAtIndexPath:]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__52-[ViewController tableView:didSelectRowAtIndexPath:]_block_invoke:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController tableView:numberOfRowsInSection:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.DataArr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController didselectChangFirstCategory:NextCategory:complete:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController tableView:didSelectRowAtIndexPath:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
