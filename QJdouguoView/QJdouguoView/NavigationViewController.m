@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view.
     [self.navigationBar setBarTintColor:UIColorFromRGB(0xffffff)];
     [self.navigationBar setTranslucent:NO];
+    self.hidesBarsOnSwipe = YES;
     // 去掉导航分割线
     [self.navigationBar setBackgroundImage:[[UIImage alloc] init] forBarMetrics:UIBarMetricsDefault];
     [self.navigationBar setShadowImage:[[UIImage alloc] init]];
